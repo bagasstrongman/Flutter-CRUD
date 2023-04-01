@@ -12,3 +12,5 @@ Run this command:
 - flutter pub get
 - flutter clean
 - flutter run
+
+Developed by : Bagasstrongman
